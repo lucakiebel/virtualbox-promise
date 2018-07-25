@@ -1,0 +1,25 @@
+{
+  "name": "virtualbox-promise",
+  "version": "1.0.0",
+  "description": "A Promise-based JavaScript library to interact with VirtualBox virtual machines.",
+  "main": "lib/virtualbox.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucakiebel/virtualbox-promise.git"
+  },
+  "keywords": [
+    "virtualbox",
+    "npm-package",
+    "node-virtualbox",
+    "nodejs"
+  ],
+  "author": "Luca Kiebel <opensource@luca-kiebel.de>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lucakiebel/virtualbox-promise/issues"
+  },
+  "homepage": "https://github.com/lucakiebel/virtualbox-promise#readme"
+}
